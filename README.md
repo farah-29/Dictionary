@@ -1,0 +1,3 @@
+# Dictionary
+
+This is Dictionary i wrote it in DSA class...
